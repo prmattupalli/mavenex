@@ -20,15 +20,15 @@
 
 	<build>
 		<plugins>
-			<!--<plugin>
+			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-app-maven-plugin</artifactId>
 				<version>${mule.tools.version}</version>
 				<extensions>true</extensions>
-				<configuration>
+				<!--<configuration>
                     <copyToAppsDirectory>true</copyToAppsDirectory>
-				</configuration>
-			</plugin>-->
+				</configuration>-->
+			</plugin>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>build-helper-maven-plugin</artifactId>
