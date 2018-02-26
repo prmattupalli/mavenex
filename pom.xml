@@ -218,13 +218,13 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://localhost:9001/repository/maven-releases/</url>
+      <url>http://localhost:9001/repository/Mule-Nexus/</url>
     </repository>
-    <snapshotRepository>
+    <!--<snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://localhost:9001/repository/maven-snapshots/</url>
-    </snapshotRepository>
+      <url>http://localhost:9001/repository/Mule-Nexus/</url>
+    </snapshotRepository>-->
   </distributionManagement>
 
 </project>
