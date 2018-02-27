@@ -216,12 +216,12 @@
     
     <distributionManagement>
     <repository>
-      <id>nexus</id>
+      <id>nexus-rep</id>
       <name>Releases</name>
       <url>https://repository.mulesoft.org/nexus-ee/content/repositories/releases-ee/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus</id>
+      <id>nexus-rep</id>
       <name>Snapshot</name>
       <url>https://repository.mulesoft.org/nexus-ee/content/repositories/releases-ee/</url>
     </snapshotRepository>
