@@ -216,12 +216,12 @@
     
     <distributionManagement>
     <repository>
-      <id>nexus-rep</id>
+      <id>nexus</id>
       <name>Releases</name>
       <url>https://localhost:9001/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus-rep</id>
+      <id>nexus</id>
       <name>Snapshot</name>
       <url>https://localhost:9001/repository/maven-snapshots/</url>
     </snapshotRepository>
