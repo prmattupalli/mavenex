@@ -218,13 +218,13 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://localhost:9001/repository/Mule-Nexus/</url>
+      <url>https://repository.mulesoft.org/nexus-ee/content/repositories/releases-ee/</url>
     </repository>
-    <!--<snapshotRepository>
+    <snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://localhost:9001/repository/Mule-Nexus/</url>
-    </snapshotRepository>-->
+      <url>https://repository.mulesoft.org/nexus-ee/content/repositories/releases-ee/</url>
+    </snapshotRepository>
   </distributionManagement>
 
 </project>
